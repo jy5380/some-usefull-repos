@@ -48,6 +48,10 @@ Collection of usefull repos
 
 * [AndroGuard](https://github.com/androguard/androguard)
 
+* [Mosby A Model-View-Presenter and Model-View-Intent library for Android apps](https://github.com/sockeqwe/mosby)
+
+* [Mindorks MVVM demo](https://github.com/MindorksOpenSource/android-mvvm-architecture)
+
 ##  About Machine Learning
 * [Solutions to the exercises in O'Reilly book Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
 
